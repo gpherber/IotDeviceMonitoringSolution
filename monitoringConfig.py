@@ -1,8 +1,8 @@
 class dbinfo:
     ## Database Configuration ##
     host = 'localhost'
-    user = 'gpherber'
-    password = 'kGis3f7P'
+    user = 'username'
+    password = 'password'
     database = 'Monitoring'
 class monitoring:
     ## Monitoring Configuration ##
